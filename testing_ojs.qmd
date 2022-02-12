@@ -1,5 +1,8 @@
 ---
 title: "Population"
+author: "[Ani Ruhil](https://aniruhil.github.io/quarto-repo/)"
+author-meta: "Please click the name above to go back to the index page."
+date: "`r Sys.time()`"
 format: 
   html:
     code-tools: true
