@@ -1,7 +1,24 @@
 ---
-title: ""
+title: "A Quarto repository for [aniruhil.org](https://aniruhil.org)"
 format: html
 editor: visual
 ---
 
 ## 
+
+Given the speed with which [Quarto](https://quarto.org/) is developing, it is very likely that I'll end up switching my site off [{distill}](https://rstudio.github.io/distill/website.html). In large part this would be because of the ability to author interactive documents using `Shiny` and `Observable JS`. As always, my thanks to the @hrbrmstr for writing something about [Observable](https://observablehq.com/) that caught my eye, which led to a lot of time spent watching [Mike Bostock weave his magic](https://observablehq.com/@mbostock) and trying to learn something from it. I hope this repository grows lickety split! 
+
+
+| Article | Brief Description |
+| :-------| :---------------- |
+| [A demo example](https://aniruhil.github.io/quarto-repo/testing_ojs) | A baked-in demo of a sunburst plot, ported from `observablehq`. Motivation ws merely to get this repo off the ground. |
+
+
+
+
+
+
+
+
+
+
