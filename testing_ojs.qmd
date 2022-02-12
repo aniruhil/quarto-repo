@@ -14,7 +14,7 @@ This example demonstrates importing a notebook from ObervableHQ and replacing it
 First we read from a local JSON file into `population`:
 
 ```{ojs}
-population = FileAttachment("population.json").json()
+population = FileAttachment("data/population.json").json()
 ```
 
 Then we import from <https://observablehq.com/@d3/zoomable-sunburst> and specify that we'd like to use `population` instead of the data built in to the notebook:
